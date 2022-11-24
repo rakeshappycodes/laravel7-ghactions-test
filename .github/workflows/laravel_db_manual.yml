@@ -1,4 +1,4 @@
-name: Laravel Manual Launch with Auto Test
+name: Laravel Manual 
 
 on: [workflow_dispatch]
 
