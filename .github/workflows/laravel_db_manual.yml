@@ -1,6 +1,6 @@
 name: Laravel Manual 
 
-on: [workflow_dispatch]
+on: [push]
 
 jobs:
   laravel-test-withdb-manual:
